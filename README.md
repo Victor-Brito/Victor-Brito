@@ -10,7 +10,7 @@ Throughout my career, I have honed skills in backend development using Node.js a
 
 With an adaptable and collaborative mindset, I am driven by technological challenges and committed to delivering high-performance, scalable, and maintainable solutions. I actively pursue learning opportunities and leverage best development practices to tackle new challenges with excellence.
 
-My [ Resume ](https://docs.google.com/document/d/1MyLUeDH5EnTh38ayuyZiTuQVjBln8RCD)
+My [ Resume ](https://docs.google.com/document/d/e/2PACX-1vS1_g_ippwvL72NT_ivtxHZvy5rlVO5diD_uIEOfhb4LyU5DBWgAZa9ViMpLWFFFJbVUxC5i7L-fzlJ/pub)
 
 ![Victor Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Brito&show_icons=true&theme=dracula&count_private=true)
 
