@@ -15,4 +15,4 @@ My [ Resume ](https://docs.google.com/document/d/e/2PACX-1vS1_g_ippwvL72NT_ivtxH
 ![Victor Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Brito&show_icons=true&theme=dracula&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvadev&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Brito&layout=compact&show_icons=true)
